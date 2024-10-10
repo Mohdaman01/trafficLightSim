@@ -2,6 +2,8 @@
 
 This project simulates a traffic light system at a four-way junction, where each traffic light (North, South, East, and West) follows a specific light sequence (green, yellow, and red). The simulation allows users to configure the duration of the green light for each direction, with the yellow light having a fixed duration of 1 second. The red light's duration is automatically adjusted based on the other light states.
 
+![trafficLightSim](https://github.com/user-attachments/assets/ef4241f1-132b-4b75-a16a-401637973bf0)
+
 ## Features
 
 - Traffic Light Control: The simulation manages traffic light - states (green, yellow, red) for each direction (North, South, East, West).
