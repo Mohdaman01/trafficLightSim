@@ -4,6 +4,8 @@ This project simulates a traffic light system at a four-way junction, where each
 
 ![trafficLightSim](https://github.com/user-attachments/assets/ef4241f1-132b-4b75-a16a-401637973bf0)
 
+Live Demo on [trafficlightsim](https://trafficlightsim.onrender.com/)
+
 ## Features
 
 - Traffic Light Control: The simulation manages traffic light - states (green, yellow, red) for each direction (North, South, East, West).
