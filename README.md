@@ -51,13 +51,13 @@ cd traffic-light-simulation
 
 3. Install the dependencies:
 
-    If you're using npm:
+If you're using npm:
 
 ```bash 
 npm install
 ```
 
-    Or if you're using yarn:
+Or if you're using yarn:
 
 ```bash
 yarn install
